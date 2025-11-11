@@ -1,0 +1,45 @@
+body{
+    background-color: lightgray;
+    font-family: sans-serif;
+}
+.containar{
+    width: 500px;
+    height: 400px;
+    background-color: #ffff;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 25px 0;
+    border: 1px solid lightgray;
+    box-shadow: 0 0 15px #827f7f;
+}
+.logo{
+    width: 150px;
+    border:2px dotted black;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+.p1{
+    color: #4c4d4c;
+    font-size: 25px;
+    border-bottom: 5px solid lightgray;
+    width: 180px;
+    margin: 25px auto;
+    
+}
+.p2{
+    text-align: center;
+    text-transform: capitalize;
+    color:#4c4d4c;
+}
+.social{
+    height: 60px;
+    background-color: lightgray;
+    text-align: center;
+}
+.social img{
+    width: 40px;
+    margin: 8px;
+}
